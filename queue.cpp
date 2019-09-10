@@ -1,5 +1,9 @@
 /*
 cpu循环调度
+
+noted：后来去查了下资料，发现一般都是需要把数组空出一位来区别处队列满还是空
+满：(tail+1)%n = head
+空：tail = head
 */
 
 #include<iostream>
