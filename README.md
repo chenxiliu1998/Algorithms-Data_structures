@@ -5,3 +5,6 @@
 - bubble sort - bubble_sort.cpp
 - selection sort - selection_sort.cpp
 - shell sort- shell_sort.cpp
+##data structure
+- stack - stack.cpp
+- queue - queue.cpp
