@@ -17,6 +17,8 @@ int pop(){
 	return S[top+1];
 }
 
+//还有if{} else if{} else if{} else{}
+//不能只是if{} if{} if{} else{}
 int main(){
 	int a,b;
 	top = 0;
