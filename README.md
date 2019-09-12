@@ -8,3 +8,4 @@
 ## data structure
 - stack - stack.cpp
 - queue - queue.cpp
+- doubly linked list - doubly_linked_list.cpp
